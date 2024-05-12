@@ -3,7 +3,7 @@ package goperset_test
 import (
 	"context"
 	"fmt"
-	"github.com/justmike1/goperset"
+	"github.com/devinsburke/goperset"
 	"os"
 	"testing"
 )
